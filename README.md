@@ -24,7 +24,7 @@ Grokking RxJava - http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
 
 Take Command of Android Development - https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571
 
-RxJava as event bus, the right way - https://medium.com/@diolor/rxjava-as-event-bus-the-right-way-10a36bdd49ba#.9hai0wpuy
+RxJava as event bus, the right way - https://medium.com/@diolor/rxjava-as-event-bus-the-right-way-10a36bdd49ba
 
 ##Fingerprint
 
