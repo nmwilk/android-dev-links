@@ -6,6 +6,11 @@ Android Weekly - http://androidweekly.net/
 
 Java Annotated Monthly - https://blog.jetbrains.com/idea/tag/java-annotated/
 
+##Best Practices
+
+Advocating Against Android Fragments - https://corner.squareup.com/2014/10/advocating-against-android-fragments.html
+Threading and Loaders - https://youtu.be/s4eAtMHU5gI?list=PLWz5rJ2EKKc9CBxr3BVjPTPoDPLdPIFCE
+
 ##Dependency Injection
 
 Background (i.e. why?) - https://www.youtube.com/watch?v=HAzu57MrGgA
@@ -14,7 +19,7 @@ Dagger 2 - http://google.github.io/dagger/
 
 ##RxJava
 
-Grokking RxJava, Part 1: The Basics - http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
+Grokking RxJava - http://blog.danlew.net/2014/09/15/grokking-rxjava-part-1/
 
 Take Command of Android Development - https://medium.com/@theMikhail/take-command-of-android-development-9411af8cf571
 
