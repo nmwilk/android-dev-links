@@ -14,7 +14,7 @@ Threading and Loaders - https://youtu.be/s4eAtMHU5gI?list=PLWz5rJ2EKKc9CBxr3BVjP
 
 ##Dependency Injection
 
-Background (i.e. why?) - https://www.youtube.com/watch?v=HAzu57MrGgA
+Background (i.e. why should I even learn this baffling stuff?) - https://www.youtube.com/watch?v=HAzu57MrGgA
 
 Dagger 2 - http://google.github.io/dagger/
 
